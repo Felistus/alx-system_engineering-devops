@@ -28,3 +28,7 @@ Delete betty file from /tmp/my_first_directory
 
 ## 9-firstdirdeletion
 Delete my_first_directory
+
+## 10-back
+Navigate to previous directory
+
