@@ -38,3 +38,5 @@ List all contents in the currnt, parent and boot directories
 ## 12-file_type
 Check type of file
 
+## 13-symbolic_link
+Create a symbolic link
