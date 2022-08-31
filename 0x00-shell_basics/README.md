@@ -19,3 +19,9 @@ Display current directory contents user and group IDs numerically
 
 ## 6-firstdirectory
 Create a script that creates a directory named my_first_directory in the /tmp/ directory
+
+## 7-movethatfile
+Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+## 8-firstdelete
+Delete betty file from /tmp/my_first_directory
