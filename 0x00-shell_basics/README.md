@@ -7,3 +7,6 @@ Lists out all the files and directories in the current directory
 
 ## 2-bring_me_home
 Change working directory to user home directory
+
+## 3-listfiles
+Display current directory contents in a long format
