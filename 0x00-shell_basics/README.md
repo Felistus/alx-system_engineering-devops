@@ -40,3 +40,6 @@ Check type of file
 
 ## 13-symbolic_link
 Create a symbolic link
+
+## 14-copy_html
+Copy all html files
