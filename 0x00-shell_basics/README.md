@@ -32,3 +32,7 @@ Delete my_first_directory
 ## 10-back
 Navigate to previous directory
 
+## 11-list
+List all contents in the currnt, parent and boot directories
+
+
