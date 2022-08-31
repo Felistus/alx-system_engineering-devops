@@ -25,3 +25,6 @@ Move the file betty from /tmp/ to /tmp/my_first_directory.
 
 ## 8-firstdelete
 Delete betty file from /tmp/my_first_directory
+
+## 9-firstdirdeletion
+Delete my_first_directory
